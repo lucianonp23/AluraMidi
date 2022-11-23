@@ -1,2 +1,2 @@
 # AluraMidi
-First contact with Javascript creating a song playing webpage
+Criação de uma página dinâmica em JavaScript com o objetivo de simular um dispositivo sonoro.
